@@ -1,0 +1,4 @@
+Username=ThomasKlawun
+Hostname=ThomsSchlappi01
+AddIn=test.dll
+AddIn=Test1.dll
