@@ -1,4 +1,4 @@
-﻿cls
+﻿Clear-Host
 $EventlogName = "Application"
 $EventlogSource = "DBCC Addin Copy"
 $Source = 'C:\ProgramData\DB Systel\DBCCAddins\Addins'
